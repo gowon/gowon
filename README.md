@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/gowon/gowon/master/name.svg" alt="Gowon Patterson" />
+  <img src="https://raw.githubusercontent.com/gowon/gowon/main/name.svg" alt="Gowon Patterson" />
 </h1>
 
 ### Hi there 👋
