@@ -6,7 +6,7 @@
 
 - 👔 I currently work at OpenText
 - 🌱 I'm currently learning: `Docker`, `OpenTelemetry`, `Grafana`, `Vertical Slice Architecture`, `Avalonia`, `Blazor WebAssembly` 
-- 🔥 I've published a few OSS packages: [![NuGet Profile Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgowon-totalnugetdownloads.web.val.run%2F)](https://www.nuget.org/profiles/gowon)
+- 🔥 I've published a few OSS packages: [![NuGet Profile Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgowon-nugetprofiletotaldownloads.web.val.run)](https://www.nuget.org/profiles/gowon)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gowon&show_icons=true&hide_title=true&theme=graywhite" alt="Most Used Languages" />
